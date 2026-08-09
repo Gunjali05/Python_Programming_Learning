@@ -5,15 +5,10 @@ Welcome to my Python Programming Practice repository!
 This repository documents my daily Python learning journey. I solve programming problems every day to strengthen my coding skills, improve problem-solving abilities and prepare for Data Analyst and Python interviews.
 
 ## 📅 Challenge
-- 🎯 Goal: 100 Days of Python Practice
+- 🎯 Goal: 1 Months of Python Practice
 - 📝 10 Python programs every day
 - 🚀 Focus on logic building and interview preparation
 
-## 📂 Folder Structure
-Day-01/
-Day-02/
-Day-03/
-...
 
 ## 🛠️ Topics Covered
 - Variables & Data Types
