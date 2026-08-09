@@ -21,9 +21,6 @@ This repository documents my daily Python learning journey. I solve programming 
 - Tuples
 - Dictionaries
 - Sets
-- File Handling
-- Object-Oriented Programming
-- NumPy
-- Pandas
+
 
 ⭐ Thanks for visiting my repository!
